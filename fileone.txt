@@ -1,2 +1,2 @@
-the first line of the file one
+the first line of the file one updated
 the line two for a feature-x
